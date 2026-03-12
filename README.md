@@ -2,6 +2,20 @@
 Containerization and Kubernetes deployment of Wisecow application with Docker, GitHub Actions CI/CD, and TLS.
 
 
+GitHub
+   ↓
+GitHub Actions CI/CD
+   ↓
+DockerHub
+   ↓
+Kubernetes Deployment
+   ↓
+Service + Ingress
+   ↓
+TLS Secure Access
+
+
+
 # Cow wisdom web server
 
 ## Prerequisites
